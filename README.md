@@ -1,4 +1,4 @@
-# Wordle dupe
+# Wordle with DAWG
 
 [Wordle dupe](https://wordledupe.netlify.app/)
 
@@ -22,3 +22,4 @@ Implement a full game loop that allows the user to replay instead of refreshing 
  - Implementing the DAWG structure taught me how it optimizes both memory usage and search speed, especially when dealing with large sets of words. It also helped me strengthen my skills in manipulating data structures with JavaScript, making the word-checking process seamless and responsive in the game.
 2. CSS Animation
  - Implementing the flip animation deepened my understanding of how transformations like `scaleY` can be used to manipulate elements' dimensions dynamically. I also gained experience with timing functions like `ease`, which helped me control the animation's flow, making transitions smoother and more engaging.
+
